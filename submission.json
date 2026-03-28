@@ -1,0 +1,6 @@
+{
+  "prompt": "A long corridor of people standing in a line, passing a whisper from one person to the next. The person at the near end is animated, leaning in, clearly speaking. Each successive person down the line becomes more still, more distant, more frozen. The last few people at the far end of the corridor stand completely motionless, faces blank, as if they heard nothing at all. Dramatic cinematic lighting, warm light at the near end fading to cold shadow at the far end. Shot from a low angle looking down the corridor. Photorealistic. No text, no labels, no diagrams, no equations, no annotations.",
+  "model": "Gemini",
+  "concept": "vanishing gradients",
+  "metaphor": "People passing a whisper down a long corridor; each person hears less until the far end stands frozen in silence, unable to act."
+}
